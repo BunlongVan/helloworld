@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'helloworld'
+puts Helloworld.hello(ARGV[0])
